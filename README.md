@@ -53,11 +53,7 @@ To get started with this project, follow these steps:
 ## Usage
 Once you have the web application running, you can use it to predict the price of diamond based on the input features. Simply provide the required information, and the application will provide you with the prediction.
 
-Additionally, you can explore the Jupyter notebooks named EDA and Model Training in the notebooks directory to understand the data analysis and model development process.
-
-## Screenshots
-![Screenshot (173)](https://github.com/user-attachments/assets/e8b78d18-59ce-4364-abf1-aad0fdbee7f5)
-![Screenshot (174)](https://github.com/user-attachments/assets/cec6a520-8abc-43c0-b02d-c7699a9f536a)
+Additionally, you can explore the Jupyter notebooks named EDA and Model Training in the notebooks directory to understand the data analysis and model development process
 
 
 
@@ -68,7 +64,7 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 2. Create a new branch for your feature or bug fix: git checkout -b feature-name.
 3. Make your changes and commit them: git commit -m 'Description of your changes'.
 4. Push your changes to your fork: git push origin feature-name.
-5. Create a pull request on the original repository.
+5. Create a pull request on the original repository
   
 
 
